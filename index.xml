@@ -1,0 +1,25 @@
+
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+ <channel>
+   <title>Kytrue&#39;s blog</title>
+   <link>https://kytrue.github.io/</link>
+   <description>Recent content on Kytrue&#39;s blog</description>
+   <generator>Hugo -- gohugo.io</generator>
+   <language>zh-CN</language>
+   <copyright>Copyright &amp;copy; 2021 - Kytrue</copyright>
+   <lastBuildDate>Mon, 29 Mar 2021 16:28:28 +0800</lastBuildDate>
+   
+       <atom:link href="https://kytrue.github.io/index.xml" rel="self" type="application/rss+xml" />
+   
+   
+     <item>
+       <title>用hugo在github上建立个人博客</title>
+       <link>https://kytrue.github.io/posts/hugo-github-pages/</link>
+       <pubDate>Mon, 29 Mar 2021 16:28:28 +0800</pubDate>
+       
+       <guid>https://kytrue.github.io/posts/hugo-github-pages/</guid>
+       <description>&lt;h1 id=&#34;用hugo在github上建立个人博客&#34;&gt;用hugo在github上建立个人博客&lt;/h1&gt;</description>
+     </item>
+   
+ </channel>
+</rss>
