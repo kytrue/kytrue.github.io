@@ -1,0 +1,16 @@
+baseURL = "https://blog.kytrue.com/"
+languageCode = "zh-CN"
+title = "Kytrue's blog"
+theme = "hugo-kiera"
+copyright = "Copyright &copy; 2021 - Kytrue"
+canonifyurls = true
+paginate = 8
+summaryLength = 4
+pygmentsCodeFences = true
+
+[author]
+    name = "Kytrue"
+    github = "kytrue"
+
+[params]
+    tagline = "The best way to learn is to output! "
