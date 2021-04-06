@@ -14,3 +14,28 @@ pygmentsCodeFences = true
 
 [params]
     tagline = "The best way to learn is to output! "
+
+[[menu.main]]
+    identifier = "posts"
+    name = "文章"
+    url = "/posts"
+    weight = 1
+
+[[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories"
+    weight = 2
+
+[[menu.main]]
+    identifier = "tags"
+    name = "标签"
+    url = "/tags"
+    weight = 3
+
+[[menu.main]]
+    identifier = "about"
+    name = "关于"
+    url = "/about"
+    weight = 4
+    
