@@ -17,7 +17,7 @@
        <pubDate>Mon, 29 Mar 2021 16:28:28 +0800</pubDate>
        
        <guid>https://blog.kytrue.com/posts/hugo-github-pages/</guid>
-       <description>&lt;p&gt;hugo把markdown写的博客文章，转换成html静态网页。将这些静态网页推送到github pages，就可以轻松建立个人博客。现在的这篇文章就是这样生成的。&lt;/p&gt;&lt;p&gt;查看hugo的文档到&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;这里&lt;/a&gt;，可以快速了解hugo的使用。&lt;/p&gt;&lt;p&gt;hugo需要选用一个主题，这里使用的是&lt;a href=&#34;https://themes.gohugo.io/hugo-kiera/&#34;&gt;kiera&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;快速入门这个主题，可以查看hugo-kiera下的exampleSite目录，参考里面的示例来进行配置。&lt;/p&gt;</description>
+       <description>&lt;p&gt;hugo把markdown写的博客文章，转换成html静态网页。将这些静态网页推送到github pages，就可以轻松建立个人博客。现在的这篇文章就是这样生成的。&lt;/p&gt;&lt;p&gt;查看hugo的文档到&lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;&gt;这里&lt;/a&gt;，可以快速了解hugo的使用。&lt;/p&gt;&lt;p&gt;hugo需要选用一个主题，这里使用的是&lt;a href=&#34;https://themes.gohugo.io/hugo-kiera/&#34;&gt;kiera&lt;/a&gt;。&lt;/p&gt;&lt;p&gt;快速入门这个主题，可以查看hugo-kiera下的exampleSite目录，参考里面的示例来进行配置。&lt;/p&gt;&lt;h2 id=&#34;hugo配合github-pages的设置&#34;&gt;hugo配合github pages的设置&lt;/h2&gt;&lt;p&gt;hugo编译后，默认生成的是public目录。在config.toml文件里添加&lt;/p&gt;&lt;pre&gt;&lt;code&gt;publishDir = &amp;quot;docs&amp;quot;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;把生成目录改为docs，在github的项目设置里面，把github pages的根目录改为docs，这样就可以看到github pages了。&lt;/p&gt;</description>
      </item>
    
  </channel>

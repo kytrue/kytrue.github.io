@@ -135,6 +135,10 @@ hugo需要选用一个主题，这里使用的是kiera。"/>
 <p>查看hugo的文档到<a href="https://gohugo.io/getting-started/quick-start/">这里</a>，可以快速了解hugo的使用。</p>
 <p>hugo需要选用一个主题，这里使用的是<a href="https://themes.gohugo.io/hugo-kiera/">kiera</a>。</p>
 <p>快速入门这个主题，可以查看hugo-kiera下的exampleSite目录，参考里面的示例来进行配置。</p>
+<h2 id="hugo配合github-pages的设置">hugo配合github pages的设置</h2>
+<p>hugo编译后，默认生成的是public目录。在config.toml文件里添加</p>
+<pre><code>publishDir = &quot;docs&quot;
+</code></pre><p>把生成目录改为docs，在github的项目设置里面，把github pages的根目录改为docs，这样就可以看到github pages了。</p>
 
 
 </article>
